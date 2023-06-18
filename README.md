@@ -1,6 +1,6 @@
 # Izvori:
 
-[yolo4.cfg](https://github.com/Tianxiaomo/pytorch-YOLOv4/blob/master/cfg/yolov4.cfg ![image](https://github.com/mateozlatunic/klasifikacija-objekti-slike/assets/95653887/f25005b0-9176-4be7-96bd-f3f2809a80b1)
+[yolo4.cfg](https://github.com/Tianxiaomo/pytorch-YOLOv4/blob/master/cfg/yolov4.cfg 
 )
 
 [yolo4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights 
